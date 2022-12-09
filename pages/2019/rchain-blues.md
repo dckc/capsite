@@ -1,8 +1,10 @@
+---
 title: RChain Blues
 date: 2019-06-05
 tags: [collaboration, rchain, music, governance]
 published: True
-
+layout: layouts/post.njk
+---
 
 Working on RChain was fun for a while, but I am no longer be
 comfortable with the RChain Cooperative's business practices.

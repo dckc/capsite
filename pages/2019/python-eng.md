@@ -1,7 +1,10 @@
+---
 title: Practical production python scripts
 date: 2019-07-22
 tags: [programming, python, quality]
 published: True
+layout: layouts/post.njk
+---
 
 In [Writing sustainable Python scripts][vb] ([lobsters
 discussion][talk]), the initial prototype looks like:

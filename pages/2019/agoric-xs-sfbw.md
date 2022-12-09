@@ -1,3 +1,4 @@
+---
 title: "Toward secure distributed computing with Agoric at SFBW '19"
 date: 2019-11-03
 published: true
@@ -6,6 +7,8 @@ summary: "I have been looking for someone to reproduce my work porting
          Agoric's SwingSet secure distributed computing platform to
          the Moddable xs JavaScript engine. On my recent trip to San
          Francisco, that someone turned out to be me."
+layout: layouts/post.njk
+---
 
 After months of indecision, I decided to go to [San Francisco
 Blockchain Week][sfbw] in hopes of syncing up with the [Agoric][]

@@ -1,7 +1,10 @@
+---
 title: Migrated from github pages to netlify for continuous deployment, SSL
 date: 2019-05-30
 tags: [publishing, programming, python, security]
 published: True
+layout: layouts/post.njk
+---
 
 A lot of the friction around my blog has been running the build step:
 re-constituting python dependencies, running the build, manually
